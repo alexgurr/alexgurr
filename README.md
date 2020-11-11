@@ -6,7 +6,9 @@
     <a href="https://dev.to/alexgurr" target="_blank"><img style="margin-right:10px;"src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTXoqIE31H6-G4dFj2NS1--t2-HDQOKdy9FSw&usqp=CAU" width="30" height="30" title="Dev To"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
      <a href="https://twitter.com/alexgurr" target="_blank"><img src="https://www.flaticon.com/svg/static/icons/svg/174/174876.svg" width="30" height="30" title="Twitter"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
      <a href="https://www.linkedin.com/in/alexgurr/" target="_blank"><img src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" width="30" height="30" title="LinkedIn"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-     <a href="https://alexgurr.com" target="_blank"><img src="https://www.flaticon.com/svg/static/icons/svg/814/814513.svg" width="30" height="30" title="Website"></a>
+     <a href="https://alexgurr.com" target="_blank"><img src="https://www.flaticon.com/svg/static/icons/svg/814/814513.svg" width="30" height="30" title="Website"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.buymeacoffee.com/alexgurr" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+
 </div><br/>
 
 Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">! I'm Alex, a hands-on technical leader and senior full stack JS developer 🚀.<br/>
