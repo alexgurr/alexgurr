@@ -13,7 +13,7 @@ Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/ma
 
 Reach out to talk about job opportunities, career advice, mentoring, web development or anything technology/software.<br/><br/>
 
-### Latest Blog Posts
+### Latest Blog Posts 📖
 <!-- BLOG-POST-LIST:START -->
 - [Spootify. The latest reactJS coding challenge in react-coding-challenges on GitHub](https://dev.to/alexgurr/spootify-the-latest-reactjs-coding-challenge-in-react-coding-challenges-on-github-b8)
 - [React Drive - An all-in-one react wrapper around Google's drive file picker. Supports direct downloads & blob exports.](https://dev.to/alexgurr/react-drive-an-all-in-one-react-wrapper-around-google-s-drive-file-picker-supports-direct-downloads-blob-exports-4nlc)
