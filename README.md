@@ -7,7 +7,7 @@
      <a href="https://twitter.com/alexgurr" target="_blank"><img src="https://www.flaticon.com/svg/static/icons/svg/174/174876.svg" width="30" height="30" title="Twitter"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
      <a href="https://www.linkedin.com/in/alexgurr/" target="_blank"><img src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" width="30" height="30" title="LinkedIn"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
      <a href="https://alexgurr.com" target="_blank"><img src="https://www.flaticon.com/svg/static/icons/svg/814/814513.svg" width="30" height="30" title="Website"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.buymeacoffee.com/alexgurr" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+    <a href="https://www.buymeacoffee.com/alexgurr" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="30" width="130"></a>
 
 </div><br/>
 
