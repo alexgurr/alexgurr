@@ -17,11 +17,11 @@ Reach out to talk about job opportunities, career advice, mentoring, web develop
 
 ### Latest Blog Posts 📖
 <!-- BLOG-POST-LIST:START -->
+- [Botty. A basic conversational bot using socket.io and nodeJS (open source).](https://dev.to/alexgurr/botty-a-basic-conversational-bot-using-socket-io-and-nodejs-open-source-541d)
 - [Spootify. The latest reactJS coding challenge in react-coding-challenges on GitHub](https://dev.to/alexgurr/spootify-the-latest-reactjs-coding-challenge-in-react-coding-challenges-on-github-b8)
 - [Spootify. The latest coding challenge in react-coding-challenges on GitHub](https://dev.to/alexgurr/spootify-the-latest-coding-challenge-in-react-coding-challenges-on-github-4bg1)
 - [React Drive - An all-in-one react wrapper around Google's drive file picker. Supports direct downloads & blob exports.](https://dev.to/alexgurr/react-drive-an-all-in-one-react-wrapper-around-google-s-drive-file-picker-supports-direct-downloads-blob-exports-4nlc)
 - [What is function Memoization and why should you care?](https://dev.to/alexgurr/what-is-function-memoization-and-why-should-you-care-5a1l)
-- [SVG Splash. A beautiful Electron-based SVG painting app.](https://dev.to/alexgurr/svg-splash-a-react-electron-svg-colouring-painting-macos-app-3abp)
 <!-- BLOG-POST-LIST:END -->
 
 <br/><br/>
