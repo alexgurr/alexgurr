@@ -17,7 +17,7 @@ Reach out to talk about job opportunities, career advice, mentoring, web develop
 
 ### Latest Blog Posts 📖
 <!-- BLOG-POST-LIST:START -->
-- [How I built a small React app to automatically invite collaborators to a private GitHub repo 👌](https://dev.to/alexgurr/how-i-built-a-small-react-app-to-automatically-invite-collaborators-to-a-private-repo-28f3)
+- [How I built a small ReactJS app to automatically invite collaborators to a private GitHub repo 👌](https://dev.to/alexgurr/how-i-built-a-small-react-app-to-automatically-invite-collaborators-to-a-private-repo-28f3)
 - [Chatter. The latest reactJS coding challenge in react-coding-challenges on GitHub.](https://dev.to/alexgurr/chatter-the-latest-reactjs-coding-challenge-in-react-coding-challenges-on-github-1kn4)
 - [Botty. A basic conversational bot using socket.io and nodeJS (open source).](https://dev.to/alexgurr/botty-a-basic-conversational-bot-using-socket-io-and-nodejs-open-source-541d)
 - [Spootify. The latest reactJS coding challenge in react-coding-challenges on GitHub.](https://dev.to/alexgurr/spootify-the-latest-reactjs-coding-challenge-in-react-coding-challenges-on-github-b8)
