@@ -11,7 +11,7 @@
 
 </div><br/>
 
-Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Alex, a hands-on technical leader and senior full stack JS developer 🚀.<br/>
+Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Alex, a hands-on technical leader and full stack JS developer 🚀.<br/>
 
 Reach out to talk about job opportunities, career advice, mentoring, web development or anything technology/software.<br/><br/>
 
