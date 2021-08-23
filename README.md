@@ -17,7 +17,7 @@ Reach out to talk about job opportunities, career advice, mentoring, web develop
 
 ### Latest Blog Posts 📖
 <!-- BLOG-POST-LIST:START -->
-- [I built a new tool for dev teams. Time To Estimate, a fun, simple way for development teams to remotely estimate tasks together.](https://dev.to/alexgurr/i-built-a-new-tool-for-dev-teams-time-to-estimate-a-fun-simple-way-for-development-teams-to-remotely-estimate-tasks-together-4jif)
+- [I built a new tool for teams. Time To Estimate, a fun, simple way for teams to remotely estimate tasks together.](https://dev.to/alexgurr/i-built-a-new-tool-for-dev-teams-time-to-estimate-a-fun-simple-way-for-development-teams-to-remotely-estimate-tasks-together-4jif)
 - [On the hunt for ideas & collaborators for node-coding-challenges](https://dev.to/alexgurr/on-the-hunt-for-ideas-collaborators-for-node-coding-challenges-3i8g)
 - [React Coding Challenges Is officially on the awesome-react list on GitHub!](https://dev.to/alexgurr/react-coding-challenges-is-officially-on-the-awesome-react-list-on-github-1114)
 - [How I built a small ReactJS app to automatically invite collaborators to a private GitHub repo 👌](https://dev.to/alexgurr/how-i-built-a-small-react-app-to-automatically-invite-collaborators-to-a-private-repo-28f3)
