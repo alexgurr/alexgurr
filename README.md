@@ -27,5 +27,6 @@ Reach out to talk about job opportunities, career advice, mentoring, web develop
 <br/><br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexgurr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=alexgurr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <img src="https://puu.sh/GMi1R/b2631725f8.gif" height="400" width="400">
 ![](https://hit.yhype.me/github/profile?user_id=4161867)
