@@ -17,11 +17,11 @@ Reach out to talk about job opportunities, career advice, mentoring, web develop
 
 ### Latest Blog Posts 📖
 <!-- BLOG-POST-LIST:START -->
+- [Turning a React app into an installable PWA with offline detection, service workers and theming.](https://dev.to/alexgurr/turning-a-react-app-into-a-pwa-with-offline-detection-service-workers-and-theming-142i)
 - [mixmello - create remixed versions of your Spotify playlists. Open source.](https://dev.to/alexgurr/mixmello-made-with-reactjs-and-open-source-40ci)
 - [Creating a style utility file with some SCSS magic ✨](https://dev.to/alexgurr/creating-a-style-utility-file-with-some-scss-magic-5fg7)
 - [I built a new tool for teams. Time To Estimate, a fun, simple way for teams to remotely estimate tasks together.](https://dev.to/alexgurr/i-built-a-new-tool-for-dev-teams-time-to-estimate-a-fun-simple-way-for-development-teams-to-remotely-estimate-tasks-together-4jif)
 - [On the hunt for ideas & collaborators for node-coding-challenges](https://dev.to/alexgurr/on-the-hunt-for-ideas-collaborators-for-node-coding-challenges-3i8g)
-- [React Coding Challenges Is officially on the awesome-react list on GitHub!](https://dev.to/alexgurr/react-coding-challenges-is-officially-on-the-awesome-react-list-on-github-1114)
 <!-- BLOG-POST-LIST:END -->
 
 <br/><br/>
