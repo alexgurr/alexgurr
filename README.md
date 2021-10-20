@@ -24,6 +24,8 @@ Reach out to talk about job opportunities, career advice, mentoring, web develop
 - [On the hunt for ideas & collaborators for node-coding-challenges](https://dev.to/alexgurr/on-the-hunt-for-ideas-collaborators-for-node-coding-challenges-3i8g)
 <!-- BLOG-POST-LIST:END -->
 
+Come and read more from me @ [medium](https://medium.com/@alexgurr).
+
 <br/><br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexgurr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=alexgurr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
