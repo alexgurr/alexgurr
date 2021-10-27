@@ -1,4 +1,4 @@
-[![Header](https://puu.sh/GMgQu/54f71d5c24.jpg "Header")](https://alexgurr.com)
+[![Header](https://puu.sh/Ilfna/78c90c059d.png "Header")](https://alexgurr.com)
 <br/>
 ---
 <br/>
