@@ -21,7 +21,7 @@ Reach out to talk about job opportunities, career advice, mentoring, web develop
 - [mixmello - create remixed versions of your Spotify playlists. Open source.](https://dev.to/alexgurr/mixmello-made-with-reactjs-and-open-source-40ci)
 - [Creating a style utility file with some SCSS magic ✨](https://dev.to/alexgurr/creating-a-style-utility-file-with-some-scss-magic-5fg7)
 - [I built a new tool for teams. Time To Estimate, a fun, simple way for teams to remotely estimate tasks together.](https://dev.to/alexgurr/i-built-a-new-tool-for-dev-teams-time-to-estimate-a-fun-simple-way-for-development-teams-to-remotely-estimate-tasks-together-4jif)
-- [On the hunt for ideas & collaborators for node-coding-challenges](https://dev.to/alexgurr/on-the-hunt-for-ideas-collaborators-for-node-coding-challenges-3i8g)
+- [On the hunt for ideas &amp; collaborators for node-coding-challenges](https://dev.to/alexgurr/on-the-hunt-for-ideas-collaborators-for-node-coding-challenges-3i8g)
 <!-- BLOG-POST-LIST:END -->
 
 Come and read more from me @ [medium](https://medium.com/@alexgurr).
